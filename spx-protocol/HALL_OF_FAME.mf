@@ -1,0 +1,15 @@
+#### /HALL_OF_FAME.md
+```markdown
+# SPX Hall of Fame 🌌
+
+The cosmic legends who shape SPX Protocol by Shaan ([github.com/shaa2020](https://github.com/shaa2020)).
+
+## Starmakers
+
+- *Shaan* ([github.com/shaa2020](https://github.com/shaa2020)) - Creator of SPX, the cosmic visionary.
+
+More legends to join...
+
+---
+
+**Be a starmaker! Contribute at [github.com/shaa2020/spx-protocol](https://github.com/shaa2020/spx-protocol).** ✨
