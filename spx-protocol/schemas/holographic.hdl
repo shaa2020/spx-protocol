@@ -1,9 +1,0 @@
-# Holographic Data Lattice schema
-type: lattice
-dimensions:
-  - type
-  - id
-  - data
-  - emotion
-  - intent
-  - astral_tag
